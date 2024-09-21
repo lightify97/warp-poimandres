@@ -7,5 +7,17 @@ Preview:
 
 ![Poimandres Theme Preview](./preview.png)
 
-To get started with Poimandres, simply follow the installation instructions in the [Warp documentation](https://warpframework.com/docs/themes/poimandres). Customize the theme to match your branding and start building beautiful web applications with ease.
+# Installation
+
+1. Copy Paste the following code into your terminal:
+
+```bash
+git clone https://github.com/lightify97/warp-poimandres
+cd warp-poimandres
+cp ./poimandres.yaml ./background.jpg ~/.warp/themes/
+```
+
+2. Open command pallete and select the theme `poimandres` from the theme picker.
+
+
 
